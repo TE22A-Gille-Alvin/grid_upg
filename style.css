@@ -1,0 +1,54 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    gap: 20px;
+}
+img{
+    width: 100%;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+header{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 50px;
+}
+nav{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.art1{
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+.art2{
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+.art3{
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+main{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
